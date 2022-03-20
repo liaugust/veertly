@@ -2,6 +2,12 @@
 
 Veertly test application
 
+## Preparations
+
+Create .env file with this variable
+
+REACT_APP_API_URL=https://us-central1-veertly-dev-8b81f.cloudfunctions.net
+
 ## Available Scripts
 
 In the project directory, you can run:
