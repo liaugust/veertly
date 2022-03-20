@@ -1,7 +1,7 @@
-import React from 'react';
+import { MainLayout } from './components';
 
 function App() {
-  return <div>Veertly app</div>;
+  return <MainLayout>Veertly app</MainLayout>;
 }
 
 export default App;
